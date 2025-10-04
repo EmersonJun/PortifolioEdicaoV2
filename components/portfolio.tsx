@@ -18,6 +18,7 @@ export function Portfolio() {
       tools: ["CapCut", "Photoshop"],
       duration: "17 - 18min",
       thumbnail: "/marketing-campaign-video-thumbnail.jpg",
+      link: "https://youtu.be/U9Jixy58boY",
     },
     {
       title: "Vlog de Viagem",
