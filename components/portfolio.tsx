@@ -128,7 +128,14 @@ export function Portfolio() {
               <CardContent className="p-6">
                 <div className="flex items-start justify-between mb-3">
                   <h3 className="text-lg font-semibold text-balance">{project.title}</h3>
-                  <ExternalLink className="h-4 w-4 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity" />
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="opacity-0 group-hover:opacity-100 transition-opacity"
+                  >
+                    <ExternalLink className="h-4 w-4 text-muted-foreground" />
+                  </a>
                 </div>
 
                 <p className="text-muted-foreground text-sm mb-4 leading-relaxed">{project.description}</p>
