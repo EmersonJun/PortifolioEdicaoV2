@@ -27,7 +27,7 @@ export function About() {
               <img
                 src="/Kirbi.gif"
                 alt="Gif da plaqueta"
-                className="w-3/4 h-3/4 object-contain"
+                className="w-full h-full object-cover"
               />
             </div>
           </div>
