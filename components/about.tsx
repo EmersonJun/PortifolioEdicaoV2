@@ -25,9 +25,9 @@ export function About() {
           <div className="relative">
             <div className="aspect-square bg-gradient-to-br from-primary/20 to-primary/5 rounded-2xl flex items-center justify-center">
               <img
-                src="/kirbi.gif"
+                src="/Kirbi.gif"
                 alt="Gif da plaqueta"
-                className="w-1/2 h-1/2 object-contain"
+                className="w-3/4 h-3/4 object-contain"
               />
             </div>
           </div>
