@@ -14,7 +14,7 @@ export function Portfolio() {
     {
       title: "Gameplay de entretenimento",
       description: "Gameplay dinamica do jogo Peak feita pelo capcut.",
-      category: "gameplay",
+      category: "Gameplay",
       tools: ["CapCut", "Photoshop"],
       duration: "17 - 18min",
       thumbnail: "/marketing-campaign-video-thumbnail.jpg",
@@ -27,6 +27,7 @@ export function Portfolio() {
       tools: ["Premiere Pro", "After Effects"],
       duration: "8min",
       thumbnail: "/travel-vlog-thumbnail.png",
+      link: "https://youtu.be/U9Jixy58boY",
     },
     {
       title: "Tutorial Educativo",
@@ -35,6 +36,7 @@ export function Portfolio() {
       tools: ["CapCut", "Photoshop"],
       duration: "5min",
       thumbnail: "/educational-tutorial-video-thumbnail.jpg",
+      link: "https://youtu.be/U9Jixy58boY",
     },
     {
       title: "Apresentação Corporativa",
@@ -43,38 +45,7 @@ export function Portfolio() {
       tools: ["Premiere Pro", "After Effects"],
       duration: "3min",
       thumbnail: "/corporate-presentation-video-thumbnail.jpg",
-    },
-    {
-      title: "Conteúdo para TikTok",
-      description: "Série de vídeos curtos otimizados para TikTok com edição rápida e efeitos visuais.",
-      category: "Social Media",
-      tools: ["CapCut"],
-      duration: "15-30s",
-      thumbnail: "/tiktok-content-video-thumbnail.jpg",
-    },
-    {
-      title: "Documentário Curto",
-      description: "Mini documentário com narrativa envolvente, entrevistas e b-roll cinematográfico.",
-      category: "Documentário",
-      tools: ["Premiere Pro", "Photoshop"],
-      duration: "12min",
-      thumbnail: "/short-documentary-video-thumbnail.jpg",
-    },
-    {
-      title: "Gameplay Montage",
-      description: "Montagem de gameplay com edição dinâmica, efeitos sonoros e sincronização musical.",
-      category: "Gameplay",
-      tools: ["Premiere Pro", "After Effects"],
-      duration: "4min",
-      thumbnail: "/gameplay-montage-thumbnail.jpg",
-    },
-    {
-      title: "Vlog Diário",
-      description: "Vlog do dia a dia com edição natural e storytelling envolvente.",
-      category: "Vlog",
-      tools: ["CapCut", "Photoshop"],
-      duration: "6min",
-      thumbnail: "/daily-vlog-thumbnail.jpg",
+      link: "https://youtu.be/U9Jixy58boY",
     },
   ]
 
