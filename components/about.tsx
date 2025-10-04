@@ -22,11 +22,10 @@ export function About() {
               </p>
             </div>
           </div>
-
           <div className="relative">
             <div className="aspect-square bg-gradient-to-br from-primary/20 to-primary/5 rounded-2xl flex items-center justify-center">
               <img
-                src="kirbi.gif"
+                src="/kirbi.gif"
                 alt="Gif da plaqueta"
                 className="w-1/2 h-1/2 object-contain"
               />
