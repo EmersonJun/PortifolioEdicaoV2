@@ -12,11 +12,11 @@ export function Portfolio() {
 
   const projects = [
     {
-      title: "Campanha de Marketing Digital",
-      description: "Série de vídeos promocionais para redes sociais com foco em engajamento e conversão.",
-      category: "Marketing",
+      title: "Gameplay de entretenimento",
+      description: "Gameplay dinamica do jogo Peak feita pelo capcut.",
+      category: "gameplay",
       tools: ["CapCut", "Photoshop"],
-      duration: "30s - 1min",
+      duration: "17 - 18min",
       thumbnail: "/marketing-campaign-video-thumbnail.jpg",
     },
     {

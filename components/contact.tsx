@@ -20,7 +20,7 @@ export function Contact() {
               <h3 className="text-lg font-semibold mb-2">Email</h3>
               <p className="text-muted-foreground mb-4">Para orçamentos e projetos profissionais</p>
               <Button variant="outline" className="w-full bg-transparent" asChild>
-                <a href="mailto:contato@videoeditor.com">contato@videoeditor.com</a>
+                <a href="mailto:contato@videoeditor.com">emersonnjunior2006@gmail.com.com</a>
               </Button>
             </CardContent>
           </Card>
@@ -32,7 +32,7 @@ export function Contact() {
               <p className="text-muted-foreground mb-4">Para conversas rápidas e dúvidas</p>
               <Button variant="outline" className="w-full bg-transparent" asChild>
                 <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer">
-                  +55 (11) 99999-9999
+                  +55 (41) 98728-3543
                 </a>
               </Button>
             </CardContent>
