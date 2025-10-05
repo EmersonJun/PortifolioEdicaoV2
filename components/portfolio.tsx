@@ -23,7 +23,7 @@ export function Portfolio() {
     {
       title: "Gameplay",
       description: "Gameplay dinamica do jogo Peak feita pelo premiere.",
-      category: "Vlog",
+      category: "Gameplay",
       tools: ["Premiere Pro", "After Photoshop"],
       duration: "17min",
       thumbnail: "/travel-vlog-thumbnail.png",
@@ -32,7 +32,7 @@ export function Portfolio() {
     {
       title: "Gameplay",
       description: "Gameplay dinamica do jogo Peak feita pelo premiere.",
-      category: "Educação",
+      category: "Gameplay",
       tools: ["CapCut", "Photoshop"],
       duration: "6min",
       thumbnail: "/educational-tutorial-video-thumbnail.jpg",

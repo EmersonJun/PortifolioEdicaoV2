@@ -13,7 +13,10 @@ export const metadata: Metadata = {
   title: "VideoEditor - Portfólio de Edição de Vídeos",
   description:
     "Portfólio profissional de edição de vídeos com experiência em CapCut, Premiere Pro, After Effects e Photoshop",
-    generator: 'v0.app'
+    generator: 'Emerson',
+    icons: {
+    icon: "/Edc.png", // 👉 Coloque seu ícone aqui (dentro da pasta /public)
+  },
 }
 
 export default function RootLayout({
