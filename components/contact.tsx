@@ -40,15 +40,31 @@ export function Contact() {
         </div>
 
         <div className="flex justify-center space-x-6">
-          <Button variant="ghost" size="icon" className="hover:text-primary">
-            <Instagram className="h-5 w-5" />
-          </Button>
-          <Button variant="ghost" size="icon" className="hover:text-primary">
-            <Youtube className="h-5 w-5" />
-          </Button>
-          <Button variant="ghost" size="icon" className="hover:text-primary">
-            <Mail className="h-5 w-5" />
-          </Button>
+          <a
+            href="https://www.instagram.com/Erminkkj"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button variant="ghost" size="icon" className="hover:text-primary">
+              <Instagram className="h-5 w-5" />
+            </Button>
+          </a>
+
+          <a
+            href="https://www.youtube.com/@Erminkkj"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button variant="ghost" size="icon" className="hover:text-primary">
+              <Youtube className="h-5 w-5" />
+            </Button>
+          </a>
+
+          <a href="mailto:Emersonnjunior2006@gmail.com">
+            <Button variant="ghost" size="icon" className="hover:text-primary">
+              <Mail className="h-5 w-5" />
+            </Button>
+          </a>
         </div>
 
         <div className="mt-12 pt-8 border-t border-border text-center text-muted-foreground">
