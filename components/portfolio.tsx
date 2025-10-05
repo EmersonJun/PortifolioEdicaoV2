@@ -17,7 +17,7 @@ export function Portfolio() {
       category: "Gameplay",
       tools: ["CapCut", "Photoshop"],
       duration: "17min",
-      thumbnail: "/marketing-campaign-video-thumbnail.jpg",
+      thumbnail: "/Tbm1.jpg",
       link: "https://youtu.be/U9Jixy58boY",
     },
     {
