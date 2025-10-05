@@ -26,7 +26,7 @@ export function Portfolio() {
       category: "Gameplay",
       tools: ["Premiere Pro", "After Photoshop"],
       duration: "17min",
-      thumbnail: "/travel-vlog-thumbnail.png",
+      thumbnail: "/Tbn3.png",
       link: "https://youtu.be/5BIRlJO5tKg?si=vLf63itXMF2ctH_y",
     },
     {
@@ -35,7 +35,7 @@ export function Portfolio() {
       category: "Gameplay",
       tools: ["CapCut", "Photoshop"],
       duration: "6min",
-      thumbnail: "/educational-tutorial-video-thumbnail.jpg",
+      thumbnail: "/Tbn2.png",
       link: "https://youtu.be/uQWsNP_7kQQ?si=AhLVUDWfs57lszbE",
     },
     {
