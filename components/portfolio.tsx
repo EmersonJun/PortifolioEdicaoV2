@@ -38,15 +38,7 @@ export function Portfolio() {
       thumbnail: "/Tbn2.png",
       link: "https://youtu.be/uQWsNP_7kQQ?si=AhLVUDWfs57lszbE",
     },
-    {
-      title: "Apresentação Corporativa",
-      description: "Vídeo institucional com motion graphics e identidade visual profissional.",
-      category: "Corporativo",
-      tools: ["Premiere Pro", "After Effects"],
-      duration: "3min",
-      thumbnail: "/corporate-presentation-video-thumbnail.jpg",
-      link: "https://youtu.be/U9Jixy58boY",
-    },
+    
   ]
 
   const categories = ["Todos", ...Array.from(new Set(projects.map((p) => p.category)))]
